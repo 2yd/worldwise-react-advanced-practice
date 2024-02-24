@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "id": "cf4e",
-      "cityName": "Monteagudo del Castillo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-02-22T17:29:51.729Z",
-      "notes": "",
-      "position": {
-        "lat": "40.48038142908172",
-        "lng": "-0.7910156250000001"
-      }
-    },
-    {
       "id": "dc7f",
       "cityName": "Jingshan Xian",
       "country": "China",
@@ -46,6 +34,30 @@
       "position": {
         "lat": "40.329795743702064",
         "lng": "-5.646972656250001"
+      }
+    },
+    {
+      "id": "b57e",
+      "cityName": "Griegos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-24T06:18:34.692Z",
+      "notes": "",
+      "position": {
+        "lat": "40.43022363450862",
+        "lng": "-1.7578125000000002"
+      }
+    },
+    {
+      "id": "e97f",
+      "cityName": "Jingshan Xian",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2024-02-24T06:18:42.273Z",
+      "notes": "",
+      "position": {
+        "lat": "30.921076375384906",
+        "lng": "113.22509765625001"
       }
     }
   ]
