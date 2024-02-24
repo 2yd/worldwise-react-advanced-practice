@@ -21,7 +21,7 @@ import SpinnerFullPage from './Components/SpinnerFullPage'
 import { CitiesProvider } from './contexts/CitiesContext'
 import { AuthProvider } from './contexts/FakeAuthContext'
 import ProtectedRoute from './Components/ProtectedRoute'
-const BASE_URL = 'http://localhost:4399'
+const BASE_URL = 'https://worldwise-fake-api.vercel.app'
 function App() {
    const [cities, setCities] = useState([])
    const [isLoading, setIsLoading] = useState(false)

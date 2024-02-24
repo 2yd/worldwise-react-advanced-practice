@@ -43,7 +43,7 @@ function Form() {
                )
                const data = await res.json()
 
-               if (!data.countryCode) throw new Error('你往哪点的')
+               if (!data.countryCode) throw new Error('这好像不是国家吧')
                setCityName(data.city || data.locality || '')
                setCountry(data.countryName)
                setEmoji(convertToEmoji(data.countryCode))
