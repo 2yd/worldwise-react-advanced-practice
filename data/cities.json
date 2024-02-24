@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "dc7f",
+      "cityName": "Jingshan Xian",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2024-02-22T17:29:54.397Z",
+      "notes": "",
+      "position": {
+        "lat": "30.977609093348686",
+        "lng": "113.20312500000001"
+      }
+    },
+    {
+      "id": "fdaf",
+      "cityName": "Bonilla de la Sierra",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-24T06:25:45.825Z",
+      "notes": "",
+      "position": {
+        "lat": "40.54720023441049",
+        "lng": "-5.295410156250001"
+      }
+    },
+    {
+      "id": "6b71",
+      "cityName": "Ajdabiya",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2024-02-24T06:25:48.728Z",
+      "notes": "",
+      "position": {
+        "lat": "27.839076094777816",
+        "lng": "23.8623046875"
+      }
+    }
+  ]
+}
